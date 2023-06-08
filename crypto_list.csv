@@ -1,0 +1,261 @@
+# symbol: 通貨コード
+# name  : 名称
+# fraud : 詐欺か否か（1は詐欺、0は対照群）
+# year  : ホワイトペーパーの発行年
+#
+# fraudおよびyearは本研究の定義に基づく．
+#
+# 本データにおける「詐欺」はDead Coinsの基準に1つ以上該当することを示し，
+# 当該暗号資産が投資家を欺く意図を持っていたと主張するものではない．
+#
+symbol,name,fraud,year
+AAVE,AAVE,0,2020
+ADA,Cardano,0,2017
+ADI,Aditus,1,2018
+ADT,adToken,1,2017
+AID,Aidcoin,1,2017
+AIT,AICHAIN,1,2018
+ALGO,Algorand,0,2017
+AMP,Amp,0,2020
+APPC,AppCoins,1,2017
+AR,Arweave,0,2018
+ASTRO,Astronaut,1,2017
+ATL,ATLANT,1,2017
+ATM,Atmchain,1,2017
+ATOM,Cosmos,0,2017
+ATS,Autorship,1,2017
+AUC,Auctus,1,2018
+AUDIO,Audius,0,2020
+AVAX,Avalanche,0,2019
+AXPR,aXpire / Moola,1,2018
+BAL,Balancer,0,2019
+BAT,Basic Attention Token,0,2017
+BBI,Beluga Pay,1,2017
+BCPT,Blockmason,1,2017
+BERRY,Rentberry,1,2017
+BEZ,Bezop,1,2017
+BIX,Bibox Token,1,2017
+BKX,Bankex,1,2017
+BLOCK,Blocknet,1,2018
+BLT,Bloom,1,2018
+BMC,Blackmoon,1,2018
+BNB,BNB,0,2017
+BNK,Bankera,1,2017
+BORA,BORA,0,2018
+BPT,Blockport,1,2018
+BQ,Bitqy,1,2017
+BQX,Bitquence,1,2017
+BSTN,BitStation,1,2018
+BTC,Bitcoin,0,2009
+BTCST,Bitcoin Standard Hashrate Token,0,2020
+BTG,Bitcoin Gold,0,2017
+BTRST,Braintrust,0,2021
+BTT,BitTorrent,0,2019
+C20,CRYPTO20,1,2017
+CAN,CanYaCoin,1,2018
+CAPP,Cappasity,1,2018
+CAT1,BitClave,1,2017
+CAT2,Blockcat,1,2017
+CBT,CommerceBlock,1,2017
+CDT,CoinDash,1,2017
+CELO,Celo,0,2020
+CHP,CoinPoker,1,2017
+CHSB,SwissBorg,0,2017
+CHZ,Chiliz,0,2018
+CL,Coinlancer,1,2017
+COMP,Compound,0,2019
+COSS,Coss,1,2017
+CPC,CPChain,1,2018
+CREA,CREA,1,2017
+CRO,Cronos,0,2018
+DASH,Dash,0,2014
+DCR,Decred,0,2015
+DGB,DigiByte,0,2014
+DICE,Etheroll,1,2017
+DOT,Polkadot,0,2017
+DPY,Delphy,1,2017
+DROP,Dropil,1,2018
+DRT,DomRaider,1,2017
+DTB,Databits,1,2017
+DTR,Dynamic Trading Rights,1,2017
+EARTH,Earth Token,1,2017
+EDG,Edgeless,1,2016
+EFX,Effect Network,1,2018
+EGLD,Elrond / MultiversX,0,2019
+ENG,Enigma,1,2017
+ENJ,Enjin Coin,0,2017
+EOS,EOS,0,2018
+ETC,Ethereum Classic,0,2017
+ETH,Ethereum,0,2014
+EVN,Envion,1,2017
+EXC,Eximchain,1,2018
+FCT,Factom,1,2014
+FDZ,Friendz,1,2018
+FIL,Filecoin,0,2017
+FLDC,FoldingCoin,1,2017
+FLIXX,Flixxo,1,2017
+FLOW,Flow,0,2019
+FOTA,Fortuna,1,2018
+FRD,Farad,1,2017
+FTM,Fantom,0,2018
+GAT,Global Awards Token,1,2017
+GJC,Global Jobcoin,1,2017
+GLM,Golem,0,2016
+GNO,Gnosis,0,2017
+GRMD,GreenMed,1,2017
+GRT,The Graph,0,2018
+GVT,Genesis Vision,1,2017
+HAV,Havven,1,2018
+HBAR,Hedora,0,2020
+HIVE,Hive,0,2020
+HMQ,Humaniq,1,2017
+HNT,Helium,0,2018
+HOT,Holo,0,2017
+HQX,HOQU,1,2017
+HST,Desition Token,1,2017
+ICOS,ICOS,1,2017
+ICP,Internet Computer,0,2022
+ICX,ICON,0,2017
+IHT,IHT,1,2017
+IMX,Immutable X,0,2021
+IOST,IOST,0,2017
+IOTA,IOTA,0,2016
+IOTX,IoTeX,0,2018
+IPL,InsurePal,1,2018
+JNT,Jibrel Network,1,2017
+JST,JUST,0,2020
+KCS,KuCoin Token,0,2017
+KLAY,Klaytn,0,2021
+KNC,Kyber Network Crystal ,0,2017
+KTC,Kyvalion,1,2018
+LDC,Leadcoin,1,2018
+LDO,Lido DAO,0,2020
+LEO,UNUS SED LEO,0,2019
+LGO,Legolas Exchange,1,2017
+LINK,Chainlink,0,2017
+LKK,Lykke,1,2016
+LNC,Blocklancer,1,2018
+LPT,Livepeer,0,2018
+LRC,Loopring,0,2017
+LTC,Litecoin,0,2011
+LUN,Lunyr,1,2017
+MANA,Decentraland,0,2017
+MATIC,Matic / Polygon,0,2019
+MDA,Moeda Loyalty Points,1,2017
+MDS,MediShares,1,2017
+MEET,CoinMeet,1,2017
+MINA,Mina,0,2020
+MKR,Maker,0,2017
+MNE,Minereum,1,2020
+MNX,MinexCoin,1,2016
+MOAC,MOAC,1,2018
+MOD,Modum,1,2017
+MSP,Mothership,1,2017
+MTX,Matryx,1,2017
+MYB,MyBit,1,2019
+MYST,Mysterium,1,2017
+NBOT,Bodhi,1,2017
+NEAR,NEAR Protocol,0,2020
+NEO,Neo,0,2017
+NEU,NeuFund,1,2017
+NEXO,NEXO,0,2018
+NIOX,Autonio,1,2017
+NKC,Nework,1,2018
+NVOT,NVO,1,2017
+OCN,Odyssey,1,2018
+ODE,ODEM,1,2018
+OMG,OmiseGO / OMG Network,0,2017
+ONT,Ontology,0,2018
+OPT,Opus,1,2017
+PAYX,Paypex,1,2017
+PIPL,Pipl Coin,1,2017
+PKT,Playkey,1,2017
+PLBT,Polybius,1,2017
+POE,Po.et,1,2017
+POLY,Polymath,0,2018
+PPP,PayPie,1,2017
+PRG,Paragon,1,2017
+PRIX,Privatix,1,2018
+PRL,Oyster,1,2017
+PST,Primas,1,2017
+QBT,Qbao,1,2017
+QNT,Quant,0,2018
+QTUM,Qtum,0,2017
+QUN,QunQun,1,2017
+REBL,REBL,1,2017
+REM,Remme,1,2018
+REV,RChain,1,2017
+RKT,GBX,1,2018
+ROSE,Oasis Network,0,2020
+RPX,Red Pulse,1,2017
+RUNE,THORChain,0,2019
+RVN,Ravencoin,0,2018
+RVT,Rivetz,1,2017
+SAND,The Sandbox,0,2020
+SC,Siacoin,0,2014
+SCC,StockChain,1,2018
+SENC,Sentinel Chain,1,2018
+SFT,Safex Token,1,2018
+SKL,SKALE Network,0,2020
+SMT,SmartMesh,1,2017
+SNGLS,SingularDTV,1,2016
+SNOV,Snovio,1,2017
+SNX,Synthetix,0,2022
+SOL,Solana,0,2020
+SPC,SpaceChain,1,2017
+SPD,Stipend,1,2019
+SPF,SportyCo,1,2017
+SPHTX,SophiaTX,1,2017
+STAC,CoinStarter,1,2018
+STK,STK,1,2017
+STORJ,Storj,0,2016
+STQ,Storiqa,1,2017
+STX,Stacks,0,2020
+STX2,Stox,1,2017
+SUB,Substratum,1,2017
+SWM,Swarm,1,2017
+SXP,SXP / Solar,0,2019
+TFL,TrueFlip,1,2017
+TGT,Target Coin,1,2017
+THETA,Theta Network,0,2018
+TKN,Monolith,1,2017
+TKS,Tokes,1,2018
+TKY,THEKEY,1,2017
+TNB,Time New Bank,1,2017
+TNT,Tierion ,1,2017
+TPAY,TokenPay,1,2017
+TRST,WeTrust,1,2017
+TRX,Tron,0,2017
+TSL,Energo,1,2017
+UMA,UMA,0,2018
+UNI,Uniswap,0,2020
+USNBT,Nubits,1,2014
+UTNP,Universa,1,2017
+VET,VeChain,0,2018
+VIBE,VIBE,1,2017
+VOICE,Voice,1,2018
+WAVES,Waves,0,2016
+WAXP,WAX,0,2017
+WGR,Wagerr,1,2017
+WOO,WOO Network,0,2020
+XAS,Asch,1,2016
+XAUR,Xaurum,1,2016
+XCH,Chia,0,2022
+XCLR,Clearcoin,1,2018
+XCM,Coinmetro,1,2017
+XCR,Crypti,1,2015
+XDC,XDC Network,0,2021
+XEM,NEM,0,2018
+XIN,Mixin,1,2017
+XLM,Stellar,0,2016
+XMR,Monero,0,2013
+XP,Experience Points,1,2017
+XRP,XRP,0,2014
+XTZ,Tezos,0,2014
+XYM,Symbol,0,2021
+ZEC,Zcash,0,2017
+ZEN,Horizen,0,2018
+ZIL,Zilliqa,0,2017
+ZPT,Zeepin,1,2017
+ZRX,0x,0,2017
+ZSC,Zeusshield,1,2017
